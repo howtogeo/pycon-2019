@@ -1,3 +1,5 @@
 .ipynb_checkpoints
 */.ipynb_checkpoints/*
 .DS_Store
+cache/*
+data/train_2015.csv
