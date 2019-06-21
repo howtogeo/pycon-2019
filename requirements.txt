@@ -10,7 +10,9 @@ mapclassify
 networkx
 osmnx
 overpy
+overpass
 geopy
 sklearn
 seaborn
 rtree
+pysal
