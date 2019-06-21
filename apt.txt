@@ -1,1 +1,1 @@
-libspatialindex==1.9.0
+libspatialindex-dev
